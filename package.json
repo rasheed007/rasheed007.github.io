@@ -1,0 +1,23 @@
+{
+  "name": "rasheed007.github.io",
+  "version": "1.0.0",
+  "description": "A restaurant chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasheed007/rasheed007.github.io.git"
+  },
+  "author": "Olayanju Rasheed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasheed007/rasheed007.github.io/issues"
+  },
+  "homepage": "https://github.com/rasheed007/rasheed007.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
